@@ -1,7 +1,0 @@
-{
-    "shows" : [
-        {"id": 1, "title": "Apex Legend", "isPlayed": true, "image": "../images/apex.jpg"},
-        {"id": 2, "title": "Ark Survival Evolved", "isPlayed": true, "image": "../images/Ark.jpg"},
-        {"id": 3, "title": "Cyberpunk", "isPlayed": false, "image": "../images/cyberpunk.jpg"}
-    ]
-}
